@@ -70,6 +70,12 @@ claude.ai changes often. If something breaks, please open an
 Titleous is free. If it saves you a few refreshes, you can
 [buy me a coffee](https://buymeacoffee.com/adammackey).
 
+## More from MackEye Apps
+
+Titleous is one of the small apps from [MackEye Apps](https://mackeye.app):
+Mac utilities like Desktop Please and Hold Please, and tools for Claude like
+Meterous and Pulseous. See them all at [mackeye.app](https://mackeye.app).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
